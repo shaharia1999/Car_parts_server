@@ -1,5 +1,7 @@
 # Cars Parts
 # Wellcome to Investigation
+## admin email=adeptshaharia@gmail.com
+## admin pass = 123456
 
 live link ---- [https://cars-parts-11bbb.firebaseapp.com/];
 ;
